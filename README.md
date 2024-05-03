@@ -1,7 +1,7 @@
 ## Hi there I'm Lucas 👋 
 
-### I am currently studying Web Development at Fanshawe College.
-### It would be great to have an opportunity to put my knowledge into practice. I'm currently learning TypeScript and React.
+### I just graduated in Web Development at Fanshawe College.
+### It would be great to have an opportunity to put my knowledge into practice. I'm currently learning TypeScript, Next.js and React.
 
 <div>
   <a href="https://github.com/lucaskepler">
